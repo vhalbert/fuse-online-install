@@ -5,7 +5,7 @@ git_fuse_online_install="version.fuse.online"
 tag_server="version.tag.server"
 tag_ui="version.tag.ui"
 tag_meta="version.tag.meta"
-tag_s2i="versiion.tag.s2i"
+tag_s2i="version.tag.s2i"
 
 tag_upgrade="version.tag.upgrade"
 tag_operator="version.tag.operator"
