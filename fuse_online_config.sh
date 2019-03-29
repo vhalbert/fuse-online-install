@@ -1,21 +1,21 @@
 # Tag for release. Update this before running release.sh
-git_fuse_online_install="1.6.4"
+git_fuse_online_install="version.fuse.online"
 
 # Tags used for the productised images
-tag_server="1.3-4"
-tag_ui="1.3-4"
-tag_meta="1.3-4"
-tag_s2i="1.3-4"
+tag_server="version.tag.server"
+tag_ui="version.tag.ui"
+tag_meta="version.tag.meta"
+tag_s2i="versiion.tag.s2i"
 
-tag_upgrade="1.3-4"
-tag_operator="1.3-4"
+tag_upgrade="version.tag.upgrade"
+tag_operator="version.tag.operator"
 
 
 # Docker repository for productised images
-repository="fuse7"
+repository="repo.name"
 
 # Test:
-registry="brew-pulp-docker01.web.prod.ext.phx2.redhat.com:8888"
+registry="registry.name"
 
 # Official:
 # registry="registry.access.redhat.com"

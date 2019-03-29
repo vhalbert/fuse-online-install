@@ -168,7 +168,7 @@ create_resources() {
     local fuse_online_tag=$2
 
     # Read in config variables
-#    source $topdir/fuse_online_config.sh
+    source $topdir/fuse_online_config.sh
 
     local is_tag
     if [ "$fuse_online_tag" = "master" ]; then
