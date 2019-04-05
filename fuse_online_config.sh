@@ -1,5 +1,7 @@
+# This template is used in Jenkins to enable property substitution at runtime
+
 # Tag for release. Update this before running release.sh
-git_fuse_online_install="1.5.b"
+git_fuse_online_install="1.5.10010"
 
 # Tags used for the productised images
 tag_server="1.3-4"
@@ -9,6 +11,7 @@ tag_s2i="1.3-4"
 
 tag_upgrade="1.3-5"
 tag_operator="1.3-5"
+tag_postgres_exporter="1.3.5"
 
 
 # Docker repository for productised images
