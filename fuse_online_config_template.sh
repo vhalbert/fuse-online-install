@@ -13,6 +13,8 @@ tag_upgrade="version.tag.upgrade"
 tag_operator="version.tag.operator"
 tag_postgres_exporter="version.tag.postgres"
 
+tag_camel_k="version.tag.camel_k"
+tag_java_base_image="version.tag.java_base.image"
 
 # Docker repository for productised images
 repository="repo.name"
